@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="512" height="512">
+  <rect width="16" height="16" fill="#0D0D2B" />
+  <!-- Stars -->
+  <rect x="2" y="2" width="1" height="1" fill="#FFF1E8" />
+  <rect x="13" y="3" width="1" height="1" fill="#FFEC27" />
+  <rect x="3" y="12" width="1" height="1" fill="#FFF1E8" />
+  <!-- Balloon Outline & Body -->
+  <rect x="6" y="2" width="4" height="1" fill="#000000" />
+  <rect x="5" y="3" width="6" height="1" fill="#FF004D" />
+  <rect x="4" y="4" width="8" height="5" fill="#FF004D" />
+  <rect x="5" y="9" width="6" height="1" fill="#FF004D" />
+  <rect x="6" y="10" width="4" height="1" fill="#7E2553" />
+  <rect x="7" y="11" width="2" height="1" fill="#FF004D" />
+  <!-- Pixel Highlight -->
+  <rect x="5" y="4" width="2" height="1" fill="#FF77A8" />
+  <rect x="5" y="5" width="1" height="2" fill="#FF77A8" />
+  <!-- String -->
+  <rect x="7" y="12" width="1" height="2" fill="#C2C3C7" />
+  <rect x="8" y="14" width="1" height="1" fill="#C2C3C7" />
+</svg>

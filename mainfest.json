@@ -1,0 +1,19 @@
+{
+  "name": "Pixel Balloon Pop – Subtraction",
+  "short_name": "Balloon Pop",
+  "description": "Retro 8-bit Pixel Art Subtraction Math Game for Kids",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D0D2B",
+  "theme_color": "#0D0D2B",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
